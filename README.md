@@ -26,7 +26,7 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
  
  # 🧰 Tools
  
- [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github)](https://skillicons.dev)
 
 ## 📊 Github Stats
 
