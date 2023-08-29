@@ -1,4 +1,4 @@
-<h1 align="center">Hey, im Tapsi from Cyber Bees <img src="https://media.discordapp.net/attachments/1036757682121605221/1036760243620814868/bee-icon-png-8.jpg" width="70px" height="70px"> </h1>
+<h1 align="center">Hey, im Tapsi from Cyber Bees <img src="https://media.discordapp.net/attachments/1036757682121605221/1036760243620814868/bee-icon-png-8.jpg" height="30px"></h1>
 
 I'm progammer from Germany. I started progamming in March of 2022 and i love it. My main programming language is Java ☕.
 
@@ -18,7 +18,11 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
 
  # 💻 Languages
  
- [![My Skills](https://skillicons.dev/icons?i=java,js,ts,sqlite)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,sqlite)](https://skillicons.dev)
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
  # 🚀 Platforms
  
@@ -28,12 +32,10 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
  
  [![My Skills](https://skillicons.dev/icons?i=idea,vscode,github)](https://skillicons.dev)
 
+ [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+
 ## 📊 Github Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tapsicyberbees&show_icons=true&theme=dark&icon_color=48842d&title_color=48842d&text_color=ffffff&border_color=48842d" alt="TapsiCyberBee's GitHub Stats">
-</div>
-
-<div align="center">
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapsicyberbees&count_private=true&theme=dark&icon_color=48842d&title_color=48842d&text_color=ffffff&border_color=48842d" alt="TapsiCyberBees">
 </div>
