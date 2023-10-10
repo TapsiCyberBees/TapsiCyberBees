@@ -10,11 +10,9 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
  
  - ☕|My mainprogramming language is Java
 
- - 🔭|I am currently working on everything and many things at the same time.
+ - 🔭|I am working on many thinks at the time
 
- - 💭|If you have any questions, feel free to ask me!
-
- - 📬│Contact me at Discord [Cyber Wolf 🐺](https://discord.com/users/891679737590738985)
+ - 📬│Contact me at Discord [Cyber Wolf 🐺](https://discord.com/users/891679737590738985) :D
 
  # 💻 Languages
  
